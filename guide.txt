@@ -1,0 +1,11 @@
+To embed RiveScript on your web page using a CDN link:
+
+<script src="https://unpkg.com/rivescript@latest/dist/rivescript.min.js"></script>
+
+
+//  commands
+
+rivescript --help
+
+
+rivescript < folder name >
